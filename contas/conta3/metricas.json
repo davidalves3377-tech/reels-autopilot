@@ -1,9 +1,17 @@
 {
-  "atualizado": "2026-10-18T20:20:53.071Z",
+  "atualizado": "2026-10-18T20:51:04.222Z",
   "seguidores": 0,
-  "total_posts": 1,
+  "total_posts": 2,
   "erro": null,
   "midias": [
+    {
+      "id": "18423205828150802",
+      "data": "2026-10-18T20:50:56+0000",
+      "link": "https://www.instagram.com/reel/DeplM3ZAjHl/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18115771259277604",
       "data": "2026-10-18T20:20:45+0000",
