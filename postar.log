@@ -77,3 +77,5 @@
 [2026-10-19T00:51:51.117Z] [conta3] OK - video_10 publicado. media_id=18144824776541083
 [2026-10-19T01:05:14.042Z] [conta4] Nenhum vídeo restante para postar.
 [2026-10-19T01:05:14.411Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
+[2026-10-19T01:10:15.678Z] [conta2] Postando video_10 (lote 1, post 10/12)
+[2026-10-19T01:10:58.102Z] [conta2] OK - video_10 publicado. media_id=17925899835430000
