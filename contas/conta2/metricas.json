@@ -1,22 +1,30 @@
 {
-  "atualizado": "2026-10-19T05:11:49.987Z",
-  "seguidores": 12,
-  "total_posts": 48,
+  "atualizado": "2026-10-19T05:40:48.048Z",
+  "seguidores": 13,
+  "total_posts": 49,
   "erro": null,
   "midias": [
+    {
+      "id": "18138101404724258",
+      "data": "2026-10-19T05:40:40+0000",
+      "link": "https://www.instagram.com/reel/Deqh1nEDn-O/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18002494139808565",
       "data": "2026-10-19T05:11:43+0000",
       "link": "https://www.instagram.com/reel/DeqegvzjNw-/",
-      "views": 0,
-      "likes": 0,
+      "views": 89,
+      "likes": 2,
       "comentarios": 0
     },
     {
       "id": "17915926251533438",
       "data": "2026-10-19T04:40:53+0000",
       "link": "https://www.instagram.com/reel/Deqa-jwgT0n/",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comentarios": 0
     },
@@ -24,7 +32,7 @@
       "id": "18127669987923704",
       "data": "2026-10-19T04:10:51+0000",
       "link": "https://www.instagram.com/reel/DeqXigWlTkV/",
-      "views": 63,
+      "views": 98,
       "likes": 0,
       "comentarios": 0
     },
@@ -32,7 +40,7 @@
       "id": "18340587331272408",
       "data": "2026-10-19T03:40:37+0000",
       "link": "https://www.instagram.com/reel/DeqUGx2kv2o/",
-      "views": 145,
+      "views": 183,
       "likes": 5,
       "comentarios": 0
     },
@@ -40,8 +48,8 @@
       "id": "18132313576746784",
       "data": "2026-10-19T03:10:50+0000",
       "link": "https://www.instagram.com/reel/DeqQrbICo3S/",
-      "views": 167,
-      "likes": 11,
+      "views": 185,
+      "likes": 12,
       "comentarios": 0
     },
     {
@@ -72,15 +80,15 @@
       "id": "17925899835430000",
       "data": "2026-10-19T01:10:51+0000",
       "link": "https://www.instagram.com/reel/DeqC8O0F636/",
-      "views": 221,
-      "likes": 8,
+      "views": 250,
+      "likes": 10,
       "comentarios": 0
     },
     {
       "id": "17988975921112296",
       "data": "2026-10-19T00:41:33+0000",
       "link": "https://www.instagram.com/reel/Dep_mECgZvK/",
-      "views": 76,
+      "views": 80,
       "likes": 0,
       "comentarios": 0
     },
@@ -104,8 +112,8 @@
       "id": "18096093224437692",
       "data": "2026-10-18T23:11:29+0000",
       "link": "https://www.instagram.com/reel/Dep1SGkj7kN/",
-      "views": 1452,
-      "likes": 57,
+      "views": 1611,
+      "likes": 58,
       "comentarios": 0
     },
     {
@@ -120,7 +128,7 @@
       "id": "18496149922099647",
       "data": "2026-10-18T22:11:34+0000",
       "link": "https://www.instagram.com/reel/DepubgkjgrC/",
-      "views": 141,
+      "views": 144,
       "likes": 13,
       "comentarios": 0
     },
@@ -184,7 +192,7 @@
       "id": "18018908450959082",
       "data": "2026-10-18T17:15:56+0000",
       "link": "https://www.instagram.com/reel/DepMl9WDwZ1/",
-      "views": 1620,
+      "views": 1626,
       "likes": 63,
       "comentarios": 0
     },
@@ -208,8 +216,8 @@
       "id": "18014213417965693",
       "data": "2026-10-18T15:45:58+0000",
       "link": "https://www.instagram.com/reel/DepCTGCkr_S/",
-      "views": 211,
-      "likes": 6,
+      "views": 216,
+      "likes": 7,
       "comentarios": 0
     },
     {
@@ -224,7 +232,7 @@
       "id": "17976841095151079",
       "data": "2026-10-18T14:45:56+0000",
       "link": "https://www.instagram.com/reel/Deo7bS-Ep1e/",
-      "views": 1389,
+      "views": 1417,
       "likes": 97,
       "comentarios": 0
     },
@@ -232,21 +240,13 @@
       "id": "18642539275002494",
       "data": "2026-10-18T14:16:39+0000",
       "link": "https://www.instagram.com/reel/Deo4GfUCuUj/",
-      "views": 178,
-      "likes": 11,
-      "comentarios": 0
-    },
-    {
-      "id": "18091640012248713",
-      "data": "2026-10-18T13:45:45+0000",
-      "link": "https://www.instagram.com/reel/Deo0j6sE2JO/",
-      "views": 623,
+      "views": 181,
       "likes": 12,
       "comentarios": 0
     }
   ],
   "historico": {
     "2026-10-18": 9,
-    "2026-10-19": 12
+    "2026-10-19": 13
   }
 }
