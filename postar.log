@@ -480,3 +480,6 @@
 [2026-10-19T23:45:17.161Z] [conta5] Postando video_48 (lote 4, post 12/12)
 [2026-10-19T23:45:59.872Z] [conta5] OK - video_48 publicado. media_id=18355811326169021
 [2026-10-19T23:45:59.872Z] [conta5] Legenda trocou para o lote 5. Atualize a bio.
+[2026-10-19T23:50:21.454Z] [conta3] Postando video_56 (lote 5, post 8/12)
+[2026-10-19T23:50:22.534Z] [conta3] FALHOU video_56: {"message":"Unsupported post request. Object with ID '17841410738106430' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AxRH5uK2ST6dML4Q4wjYuKi"}
+[2026-10-19T23:50:22.636Z] [conta3] Métricas não atualizaram: Unsupported get request. Object with ID '17841410738106430' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
