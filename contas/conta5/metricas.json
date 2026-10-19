@@ -1,31 +1,39 @@
 {
-  "atualizado": "2026-10-19T07:16:00.292Z",
+  "atualizado": "2026-10-19T07:46:41.291Z",
   "seguidores": 26,
-  "total_posts": 108,
+  "total_posts": 109,
   "erro": null,
   "midias": [
+    {
+      "id": "18112281857333500",
+      "data": "2026-10-19T07:46:32+0000",
+      "link": "https://www.instagram.com/reel/DeqwOgmgPgN/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18130692712808459",
       "data": "2026-10-19T07:15:51+0000",
       "link": "https://www.instagram.com/reel/DeqstpCAPgt/",
-      "views": 0,
-      "likes": 0,
+      "views": 79,
+      "likes": 3,
       "comentarios": 0
     },
     {
       "id": "18151828486542201",
       "data": "2026-10-19T06:45:52+0000",
       "link": "https://www.instagram.com/reel/DeqpSfCHEjN/",
-      "views": 74,
-      "likes": 1,
+      "views": 210,
+      "likes": 7,
       "comentarios": 0
     },
     {
       "id": "18355756219175197",
       "data": "2026-10-19T06:15:49+0000",
       "link": "https://www.instagram.com/reel/Deql19EDUIf/",
-      "views": 162,
-      "likes": 1,
+      "views": 1060,
+      "likes": 15,
       "comentarios": 0
     },
     {
@@ -152,16 +160,16 @@
       "id": "18091094201217800",
       "data": "2026-10-18T18:21:32+0000",
       "link": "https://www.instagram.com/reel/DepUF70AMka/",
-      "views": 9176,
-      "likes": 406,
+      "views": 9400,
+      "likes": 419,
       "comentarios": 2
     },
     {
       "id": "18025321052874840",
       "data": "2026-10-18T17:51:39+0000",
       "link": "https://www.instagram.com/reel/DepQrZ-Ap-5/",
-      "views": 4272,
-      "likes": 119,
+      "views": 4281,
+      "likes": 120,
       "comentarios": 0
     },
     {
@@ -233,14 +241,6 @@
       "data": "2026-10-18T13:20:57+0000",
       "link": "https://www.instagram.com/reel/Deoxs1klC57/",
       "views": 8,
-      "likes": 0,
-      "comentarios": 0
-    },
-    {
-      "id": "18119989621950933",
-      "data": "2026-10-18T12:50:59+0000",
-      "link": "https://www.instagram.com/reel/DeouRVZl3-k/",
-      "views": 6,
       "likes": 0,
       "comentarios": 0
     }
