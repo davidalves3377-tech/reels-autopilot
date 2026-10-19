@@ -299,3 +299,6 @@
 [2026-10-19T13:50:20.024Z] [conta3] Postando video_36 (lote 3, post 12/12)
 [2026-10-19T13:51:02.979Z] [conta3] OK - video_36 publicado. media_id=17913779895549894
 [2026-10-19T13:51:02.979Z] [conta3] Legenda trocou para o lote 4. Atualize a bio.
+[2026-10-19T14:00:27.727Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-19T14:00:27.729Z] [conta1] Nenhum vídeo restante para postar.
+[2026-10-19T14:00:28.484Z] [conta1] Aviso "[conta1] Acabaram os vídeos" já está aberto.
