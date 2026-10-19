@@ -208,3 +208,6 @@
 [2026-10-19T08:46:55.975Z] [conta5] OK - video_19 publicado. media_id=18168502210415896
 [2026-10-19T08:50:19.420Z] [conta3] Postando video_26 (lote 3, post 2/12)
 [2026-10-19T08:51:01.452Z] [conta3] OK - video_26 publicado. media_id=18144665401585400
+[2026-10-19T09:00:26.276Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-19T09:00:26.279Z] [conta1] Nenhum vídeo restante para postar.
+[2026-10-19T09:00:26.696Z] [conta1] Aviso "[conta1] Acabaram os vídeos" já está aberto.
