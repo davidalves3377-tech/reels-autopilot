@@ -821,3 +821,6 @@
 [2026-10-20T12:15:58.000Z] [conta5] OK - video_69 publicado. media_id=18431860750148074
 [2026-10-20T12:20:19.985Z] [conta3] Postando video_76 (lote 7, post 4/12)
 [2026-10-20T12:20:51.795Z] [conta3] OK - video_76 publicado. media_id=18131683621744821
+[2026-10-20T12:35:15.569Z] [conta4] Postando video_65 (lote 6, post 5/12)
+[2026-10-20T12:35:57.831Z] [conta4] OK - video_65 publicado. media_id=18089414099495483
+[2026-10-20T12:35:57.831Z] [conta4] Faltam 12 vídeos. Avisando.
