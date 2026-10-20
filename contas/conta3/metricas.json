@@ -1,23 +1,31 @@
 {
-  "atualizado": "2026-10-20T17:21:05.419Z",
+  "atualizado": "2026-10-20T17:51:03.776Z",
   "seguidores": 5,
-  "total_posts": 86,
+  "total_posts": 87,
   "erro": null,
   "midias": [
+    {
+      "id": "17914450188540162",
+      "data": "2026-10-20T17:50:57+0000",
+      "link": "https://www.instagram.com/reel/DeuaNv3lV77/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18034813013908639",
       "data": "2026-10-20T17:20:56+0000",
       "link": "https://www.instagram.com/reel/DeuWwdBCBy7/",
-      "views": 0,
-      "likes": 0,
+      "views": 91,
+      "likes": 2,
       "comentarios": 0
     },
     {
       "id": "18134319703768942",
       "data": "2026-10-20T16:51:37+0000",
       "link": "https://www.instagram.com/reel/DeuTZkUEkoV/",
-      "views": 86,
-      "likes": 1,
+      "views": 238,
+      "likes": 3,
       "comentarios": 0
     },
     {
@@ -96,7 +104,7 @@
       "id": "18110167097628707",
       "data": "2026-10-20T11:50:57+0000",
       "link": "https://www.instagram.com/reel/Detw_jXAnUq/",
-      "views": 177,
+      "views": 179,
       "likes": 5,
       "comentarios": 0
     },
@@ -128,7 +136,7 @@
       "id": "18131554981793340",
       "data": "2026-10-20T09:50:56+0000",
       "link": "https://www.instagram.com/reel/DetjRs6jvSh/",
-      "views": 274,
+      "views": 275,
       "likes": 5,
       "comentarios": 0
     },
@@ -168,7 +176,7 @@
       "id": "18122190548282282",
       "data": "2026-10-20T07:20:55+0000",
       "link": "https://www.instagram.com/reel/DetSFgUFFsJ/",
-      "views": 2300,
+      "views": 2301,
       "likes": 43,
       "comentarios": 1
     },
@@ -233,14 +241,6 @@
       "data": "2026-10-20T03:21:15+0000",
       "link": "https://www.instagram.com/reel/Des2rFggZpl/",
       "views": 11,
-      "likes": 0,
-      "comentarios": 0
-    },
-    {
-      "id": "18131163634744720",
-      "data": "2026-10-20T02:50:57+0000",
-      "link": "https://www.instagram.com/reel/DeszMqlDCG0/",
-      "views": 9,
       "likes": 0,
       "comentarios": 0
     }
