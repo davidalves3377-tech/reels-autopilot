@@ -1177,3 +1177,5 @@
 [2026-10-21T00:12:39.116Z] [conta1] OK - video_50 publicado. media_id=18102983852190238
 [2026-10-21T00:12:59.133Z] [conta1] Postando video_51 (lote 5, post 3/12)
 [2026-10-21T00:14:25.718Z] [conta1] OK - video_51 publicado. media_id=18172572688472477
+[2026-10-21T00:15:15.506Z] [conta5] Nenhum vídeo restante para postar.
+[2026-10-21T00:15:15.875Z] [conta5] Aviso "[conta5] Acabaram os vídeos" já está aberto.
