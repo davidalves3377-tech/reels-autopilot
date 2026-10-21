@@ -1636,3 +1636,25 @@
 [2026-10-21T18:51:09.883Z] [conta3] OK - video_137 publicado. media_id=18138412786726038
 [2026-10-21T19:05:15.682Z] [conta4] Postando video_113 (lote 10, post 5/12)
 [2026-10-21T19:05:59.391Z] [conta4] OK - video_113 publicado. media_id=17951670714049550
+[2026-10-21T19:00:25.851Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-21T19:00:25.853Z] [conta1] Postando video_82 (lote 7, post 10/12)
+[2026-10-21T19:01:08.944Z] [conta1] OK - video_82 publicado. media_id=18114012911132065
+[2026-10-21T19:01:28.960Z] [conta1] Postando video_83 (lote 7, post 11/12)
+[2026-10-21T19:01:59.690Z] [conta1] OK - video_83 publicado. media_id=18103134104624562
+[2026-10-21T19:02:19.707Z] [conta1] Postando video_84 (lote 7, post 12/12)
+[2026-10-21T19:03:01.843Z] [conta1] OK - video_84 publicado. media_id=17888637273624621
+[2026-10-21T19:03:01.844Z] [conta1] Legenda trocou para o lote 8. Atualize a bio.
+[2026-10-21T19:03:21.860Z] [conta1] Postando video_85 (lote 8, post 1/12)
+[2026-10-21T19:04:13.369Z] [conta1] OK - video_85 publicado. media_id=17897657361673671
+[2026-10-21T19:04:33.374Z] [conta1] Postando video_86 (lote 8, post 2/12)
+[2026-10-21T19:05:15.706Z] [conta1] OK - video_86 publicado. media_id=18091169345230612
+[2026-10-21T19:05:35.718Z] [conta1] Postando video_87 (lote 8, post 3/12)
+[2026-10-21T19:06:18.911Z] [conta1] OK - video_87 publicado. media_id=18141995569613829
+[2026-10-21T19:06:38.927Z] [conta1] Postando video_88 (lote 8, post 4/12)
+[2026-10-21T19:07:18.993Z] [conta1] OK - video_88 publicado. media_id=18132837860482233
+[2026-10-21T19:07:39.012Z] [conta1] Postando video_89 (lote 8, post 5/12)
+[2026-10-21T19:08:21.241Z] [conta1] OK - video_89 publicado. media_id=18112821436869015
+[2026-10-21T19:08:41.256Z] [conta1] Postando video_90 (lote 8, post 6/12)
+[2026-10-21T19:09:22.269Z] [conta1] OK - video_90 publicado. media_id=18121014305037179
+[2026-10-21T19:09:42.270Z] [conta1] Postando video_91 (lote 8, post 7/12)
+[2026-10-21T19:10:22.147Z] [conta1] OK - video_91 publicado. media_id=18193222072394336
