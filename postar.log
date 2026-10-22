@@ -1844,3 +1844,6 @@
 [2026-10-22T03:05:14.790Z] [conta4] Postando video_129 (lote 11, post 9/12)
 [2026-10-22T03:06:26.768Z] [conta4] OK - video_129 publicado. media_id=18638803303044797
 [2026-10-22T03:07:05.926Z] [conta4] Respondi 1 comentário(s).
+[2026-10-22T03:15:15.255Z] [conta5] Postando video_142 (lote 12, post 10/12)
+[2026-10-22T03:16:54.633Z] [conta5] FALHOU video_142: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"AeruHgQRmXNGPzJfKdtGYiI"}
+[2026-10-22T03:16:54.902Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
