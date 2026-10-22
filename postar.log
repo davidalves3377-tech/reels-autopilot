@@ -1908,3 +1908,5 @@
 [2026-10-22T04:20:19.452Z] [conta3] Postando video_156 (lote 13, post 12/12)
 [2026-10-22T04:20:51.016Z] [conta3] OK - video_156 publicado. media_id=18182368990436185
 [2026-10-22T04:20:51.016Z] [conta3] Legenda trocou para o lote 14. Atualize a bio.
+[2026-10-22T04:35:13.534Z] [conta4] Postando video_132 (lote 11, post 12/12)
+[2026-10-22T04:36:49.199Z] [conta4] FALHOU video_132: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"ACZxYek51815BZ5eg2xx_Ki"}
