@@ -1855,3 +1855,27 @@
 [2026-10-22T03:35:15.173Z] [conta4] Postando video_130 (lote 11, post 10/12)
 [2026-10-22T03:35:58.645Z] [conta4] OK - video_130 publicado. media_id=18402320452200183
 [2026-10-22T03:36:39.667Z] [conta4] Respondi 1 comentário(s).
+[2026-10-22T03:25:19.789Z] [conta6] Rodada em massa: até 15 vídeos.
+[2026-10-22T03:25:19.791Z] [conta6] Postando video_92 (lote 8, post 8/12)
+[2026-10-22T03:26:58.493Z] [conta6] OK - video_92 publicado. media_id=18109442123240055
+[2026-10-22T03:27:18.510Z] [conta6] Postando video_93 (lote 8, post 9/12)
+[2026-10-22T03:28:01.544Z] [conta6] OK - video_93 publicado. media_id=18116880397822027
+[2026-10-22T03:28:21.560Z] [conta6] Postando video_94 (lote 8, post 10/12)
+[2026-10-22T03:29:06.289Z] [conta6] OK - video_94 publicado. media_id=17911967139472959
+[2026-10-22T03:29:26.305Z] [conta6] Postando video_95 (lote 8, post 11/12)
+[2026-10-22T03:30:08.890Z] [conta6] OK - video_95 publicado. media_id=18115155761142486
+[2026-10-22T03:30:28.907Z] [conta6] Postando video_96 (lote 8, post 12/12)
+[2026-10-22T03:31:11.805Z] [conta6] OK - video_96 publicado. media_id=18119008502007176
+[2026-10-22T03:31:11.806Z] [conta6] Legenda trocou para o lote 9. Atualize a bio.
+[2026-10-22T03:31:31.809Z] [conta6] Postando video_97 (lote 9, post 1/12)
+[2026-10-22T03:32:15.088Z] [conta6] OK - video_97 publicado. media_id=18092232956283773
+[2026-10-22T03:32:35.104Z] [conta6] Postando video_98 (lote 9, post 2/12)
+[2026-10-22T03:33:08.852Z] [conta6] OK - video_98 publicado. media_id=17920558548239895
+[2026-10-22T03:33:28.865Z] [conta6] Postando video_99 (lote 9, post 3/12)
+[2026-10-22T03:34:31.475Z] [conta6] OK - video_99 publicado. media_id=17939831100391278
+[2026-10-22T03:34:51.491Z] [conta6] Postando video_100 (lote 9, post 4/12)
+[2026-10-22T03:35:33.037Z] [conta6] OK - video_100 publicado. media_id=17931058776291099
+[2026-10-22T03:35:53.053Z] [conta6] Postando video_101 (lote 9, post 5/12)
+[2026-10-22T03:36:35.847Z] [conta6] OK - video_101 publicado. media_id=18175517512456414
+[2026-10-22T03:36:55.863Z] [conta6] Postando video_102 (lote 9, post 6/12)
+[2026-10-22T03:38:34.593Z] [conta6] FALHOU video_102: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"AgfwIdo5ULuYE4B4r_zRd2W"}
