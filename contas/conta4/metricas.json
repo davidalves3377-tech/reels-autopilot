@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-21T23:36:08.440Z",
-  "seguidores": 109,
-  "total_posts": 254,
+  "atualizado": "2026-10-22T00:06:51.034Z",
+  "seguidores": 114,
+  "total_posts": 255,
   "erro": null,
   "midias": [
+    {
+      "id": "18148290295565829",
+      "data": "2026-10-22T00:06:42+0000",
+      "link": "https://www.instagram.com/reel/Dexp__NkXUJ/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18037064093838552",
       "data": "2026-10-21T23:35:59+0000",
       "link": "https://www.instagram.com/reel/DexmeSsCpx9/",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +24,7 @@
       "id": "17872768941640244",
       "data": "2026-10-21T23:05:50+0000",
       "link": "https://www.instagram.com/reel/DexjBOlgFe0/",
-      "views": 77,
+      "views": 145,
       "likes": 5,
       "comentarios": 0
     },
@@ -24,9 +32,9 @@
       "id": "18445749049135967",
       "data": "2026-10-21T22:35:49+0000",
       "link": "https://www.instagram.com/reel/DexflVjDbKG/",
-      "views": 139,
-      "likes": 13,
-      "comentarios": 1
+      "views": 251,
+      "likes": 26,
+      "comentarios": 0
     },
     {
       "id": "18074579402783723",
@@ -40,9 +48,9 @@
       "id": "18078679241465096",
       "data": "2026-10-21T21:35:51+0000",
       "link": "https://www.instagram.com/reel/DexYuJQjCth/",
-      "views": 1310,
-      "likes": 180,
-      "comentarios": 3
+      "views": 1364,
+      "likes": 186,
+      "comentarios": 4
     },
     {
       "id": "18107722417951714",
@@ -216,8 +224,8 @@
       "id": "18106423871194801",
       "data": "2026-10-21T20:06:31+0000",
       "link": "https://www.instagram.com/reel/DexOgfonQ3_/",
-      "views": 1751,
-      "likes": 185,
+      "views": 2347,
+      "likes": 235,
       "comentarios": 2
     },
     {
@@ -235,20 +243,13 @@
       "views": 178,
       "likes": 11,
       "comentarios": 0
-    },
-    {
-      "id": "18132391225703807",
-      "data": "2026-10-21T19:18:32+0000",
-      "link": "https://www.instagram.com/reel/DexI-SWIG0-/",
-      "views": 1165,
-      "likes": 105,
-      "comentarios": 0
     }
   ],
   "historico": {
     "2026-10-18": 49,
     "2026-10-19": 57,
     "2026-10-20": 74,
-    "2026-10-21": 109
+    "2026-10-21": 109,
+    "2026-10-22": 114
   }
 }
