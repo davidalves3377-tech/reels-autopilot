@@ -2047,3 +2047,6 @@
 [2026-10-22T10:46:53.983Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
 [2026-10-22T10:50:21.243Z] [conta3] Postando video_169 (lote 15, post 1/12)
 [2026-10-22T10:51:58.732Z] [conta3] OK - video_169 publicado. media_id=17989089972098049
+[2026-10-22T11:05:14.155Z] [conta4] Postando video_144 (lote 12, post 12/12)
+[2026-10-22T11:05:53.724Z] [conta4] OK - video_144 publicado. media_id=17955023271314829
+[2026-10-22T11:05:53.724Z] [conta4] Legenda trocou para o lote 13. Atualize a bio.
