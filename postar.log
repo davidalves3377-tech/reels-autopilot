@@ -1888,3 +1888,15 @@
 [2026-10-22T03:51:01.488Z] [conta3] OK - video_155 publicado. media_id=18078406500170519
 [2026-10-22T04:05:14.507Z] [conta4] Postando video_131 (lote 11, post 11/12)
 [2026-10-22T04:05:58.960Z] [conta4] OK - video_131 publicado. media_id=18131003341697392
+[2026-10-22T04:00:22.602Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-22T04:00:22.605Z] [conta1] Postando video_96 (lote 8, post 12/12)
+[2026-10-22T04:01:06.468Z] [conta1] OK - video_96 publicado. media_id=18088856840280427
+[2026-10-22T04:01:06.469Z] [conta1] Legenda trocou para o lote 9. Atualize a bio.
+[2026-10-22T04:01:26.480Z] [conta1] Postando video_97 (lote 9, post 1/12)
+[2026-10-22T04:02:52.109Z] [conta1] OK - video_97 publicado. media_id=17945815119349231
+[2026-10-22T04:03:12.125Z] [conta1] Postando video_98 (lote 9, post 2/12)
+[2026-10-22T04:03:56.542Z] [conta1] OK - video_98 publicado. media_id=18199524640390123
+[2026-10-22T04:04:16.558Z] [conta1] Postando video_99 (lote 9, post 3/12)
+[2026-10-22T04:04:57.523Z] [conta1] OK - video_99 publicado. media_id=18090775880227571
+[2026-10-22T04:05:17.540Z] [conta1] Postando video_100 (lote 9, post 4/12)
+[2026-10-22T04:07:13.419Z] [conta1] FALHOU video_100: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"A_i-r8mcWfknaER43viTPcB"}
