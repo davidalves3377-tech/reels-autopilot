@@ -1910,3 +1910,6 @@
 [2026-10-22T04:20:51.016Z] [conta3] Legenda trocou para o lote 14. Atualize a bio.
 [2026-10-22T04:35:13.534Z] [conta4] Postando video_132 (lote 11, post 12/12)
 [2026-10-22T04:36:49.199Z] [conta4] FALHOU video_132: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"ACZxYek51815BZ5eg2xx_Ki"}
+[2026-10-22T04:45:16.321Z] [conta5] Postando video_144 (lote 12, post 12/12)
+[2026-10-22T04:46:20.696Z] [conta5] OK - video_144 publicado. media_id=18148683037563702
+[2026-10-22T04:46:20.696Z] [conta5] Legenda trocou para o lote 13. Atualize a bio.
