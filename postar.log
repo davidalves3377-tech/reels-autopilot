@@ -2151,3 +2151,6 @@
 [2026-10-22T14:37:06.318Z] [conta4] OK - video_150 publicado. media_id=18023815769713143
 [2026-10-22T14:40:16.173Z] [conta2] Postando video_175 (lote 15, post 7/12)
 [2026-10-22T14:41:00.652Z] [conta2] OK - video_175 publicado. media_id=17962680582212008
+[2026-10-22T14:45:18.239Z] [conta5] Postando video_154 (lote 13, post 10/12)
+[2026-10-22T14:46:54.305Z] [conta5] FALHOU video_154: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"AhHuQAwhfMwnTaw_SeC2G9Q"}
+[2026-10-22T14:46:55.262Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
