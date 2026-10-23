@@ -2479,3 +2479,7 @@
 [2026-10-23T05:15:16.761Z] [conta5] Postando video_175 (lote 15, post 7/12)
 [2026-10-23T05:16:54.299Z] [conta5] FALHOU video_175: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"As0S4T4zYaNVL5kE-etofJe"}
 [2026-10-23T05:16:54.649Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
+[2026-10-23T05:10:15.829Z] [conta2] Postando video_204 (lote 17, post 12/12)
+[2026-10-23T05:11:21.440Z] [conta2] OK - video_204 publicado. media_id=18113288129176535
+[2026-10-23T05:11:21.440Z] [conta2] Legenda trocou para o lote 18. Atualize a bio.
+[2026-10-23T05:20:10.717Z] [conta2] Respondi 15 comentário(s).
