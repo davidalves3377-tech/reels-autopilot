@@ -2750,3 +2750,25 @@
 [2026-10-23T19:05:14.613Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
 [2026-10-23T19:10:15.424Z] [conta2] Postando video_232 (lote 20, post 4/12)
 [2026-10-23T19:10:46.400Z] [conta2] OK - video_232 publicado. media_id=18203369467329340
+[2026-10-23T19:00:25.586Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-23T19:00:25.589Z] [conta1] Postando video_145 (lote 13, post 1/12)
+[2026-10-23T19:01:09.036Z] [conta1] OK - video_145 publicado. media_id=18032318183904471
+[2026-10-23T19:01:29.053Z] [conta1] Postando video_146 (lote 13, post 2/12)
+[2026-10-23T19:02:12.822Z] [conta1] OK - video_146 publicado. media_id=18111593021603149
+[2026-10-23T19:02:32.839Z] [conta1] Postando video_147 (lote 13, post 3/12)
+[2026-10-23T19:04:06.653Z] [conta1] OK - video_147 publicado. media_id=17966149403979430
+[2026-10-23T19:04:26.669Z] [conta1] Postando video_148 (lote 13, post 4/12)
+[2026-10-23T19:05:38.795Z] [conta1] OK - video_148 publicado. media_id=17940041298253317
+[2026-10-23T19:05:58.812Z] [conta1] Postando video_149 (lote 13, post 5/12)
+[2026-10-23T19:07:23.593Z] [conta1] OK - video_149 publicado. media_id=18639919771011233
+[2026-10-23T19:07:43.609Z] [conta1] Postando video_150 (lote 13, post 6/12)
+[2026-10-23T19:08:25.600Z] [conta1] OK - video_150 publicado. media_id=18225615715338452
+[2026-10-23T19:08:25.601Z] [conta1] Faltam 12 vídeos. Avisando.
+[2026-10-23T19:08:45.619Z] [conta1] Postando video_151 (lote 13, post 7/12)
+[2026-10-23T19:09:28.663Z] [conta1] OK - video_151 publicado. media_id=17961774903251046
+[2026-10-23T19:09:48.680Z] [conta1] Postando video_152 (lote 13, post 8/12)
+[2026-10-23T19:10:29.617Z] [conta1] OK - video_152 publicado. media_id=18110604455334431
+[2026-10-23T19:10:49.634Z] [conta1] Postando video_153 (lote 13, post 9/12)
+[2026-10-23T19:12:22.070Z] [conta1] OK - video_153 publicado. media_id=18120142583063500
+[2026-10-23T19:12:42.085Z] [conta1] Postando video_154 (lote 13, post 10/12)
+[2026-10-23T19:13:13.946Z] [conta1] OK - video_154 publicado. media_id=18123826396934277
