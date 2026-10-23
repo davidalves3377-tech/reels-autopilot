@@ -2640,3 +2640,24 @@
 [2026-10-23T13:50:23.125Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
 [2026-10-23T14:05:17.514Z] [conta4] Nenhum vídeo restante para postar.
 [2026-10-23T14:05:18.133Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
+[2026-10-23T14:00:27.858Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-23T14:00:27.861Z] [conta1] Postando video_137 (lote 12, post 5/12)
+[2026-10-23T14:01:12.934Z] [conta1] OK - video_137 publicado. media_id=18133374874775315
+[2026-10-23T14:01:32.951Z] [conta1] Postando video_138 (lote 12, post 6/12)
+[2026-10-23T14:02:06.125Z] [conta1] OK - video_138 publicado. media_id=17962404846259356
+[2026-10-23T14:02:26.138Z] [conta1] Postando video_139 (lote 12, post 7/12)
+[2026-10-23T14:03:31.446Z] [conta1] OK - video_139 publicado. media_id=17898950745609348
+[2026-10-23T14:03:51.461Z] [conta1] Postando video_140 (lote 12, post 8/12)
+[2026-10-23T14:04:26.197Z] [conta1] OK - video_140 publicado. media_id=18099374846392522
+[2026-10-23T14:04:46.214Z] [conta1] Postando video_141 (lote 12, post 9/12)
+[2026-10-23T14:05:30.923Z] [conta1] OK - video_141 publicado. media_id=18126471445912029
+[2026-10-23T14:05:50.939Z] [conta1] Postando video_142 (lote 12, post 10/12)
+[2026-10-23T14:06:34.133Z] [conta1] OK - video_142 publicado. media_id=18115577987122326
+[2026-10-23T14:06:54.141Z] [conta1] Postando video_143 (lote 12, post 11/12)
+[2026-10-23T14:07:29.156Z] [conta1] OK - video_143 publicado. media_id=18122033863989354
+[2026-10-23T14:07:49.172Z] [conta1] Postando video_144 (lote 12, post 12/12)
+[2026-10-23T14:08:43.856Z] [conta1] OK - video_144 publicado. media_id=18238709278318240
+[2026-10-23T14:08:43.856Z] [conta1] Legenda trocou para o lote 13. Atualize a bio.
+[2026-10-23T14:09:03.874Z] [conta1] Postando video_145 (lote 13, post 1/12)
+[2026-10-23T14:10:43.415Z] [conta1] FALHOU video_145: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"ASiah84V025L8E98dMWcO0J"}
+[2026-10-23T14:10:43.895Z] [conta1] Aviso "[conta1] Falha ao postar" já está aberto.
