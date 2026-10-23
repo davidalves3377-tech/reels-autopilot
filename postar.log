@@ -2566,3 +2566,5 @@
 [2026-10-23T09:45:17.031Z] [conta5] Postando video_180 (lote 15, post 12/12)
 [2026-10-23T09:46:10.860Z] [conta5] OK - video_180 publicado. media_id=18104980346566634
 [2026-10-23T09:46:10.861Z] [conta5] Legenda trocou para o lote 16. Atualize a bio.
+[2026-10-23T09:50:18.749Z] [conta3] Nenhum vídeo restante para postar.
+[2026-10-23T09:50:19.187Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
