@@ -2858,3 +2858,22 @@
 [2026-10-23T23:59:36.346Z] [conta3] Respondi 14 comentário(s).
 [2026-10-24T00:05:13.151Z] [conta4] Nenhum vídeo restante para postar.
 [2026-10-24T00:05:13.693Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
+[2026-10-24T00:00:23.272Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-24T00:00:23.274Z] [conta1] Postando video_155 (lote 13, post 11/12)
+[2026-10-24T00:01:07.494Z] [conta1] OK - video_155 publicado. media_id=18095810330441952
+[2026-10-24T00:01:27.509Z] [conta1] Postando video_156 (lote 13, post 12/12)
+[2026-10-24T00:03:01.068Z] [conta1] OK - video_156 publicado. media_id=18106703351629125
+[2026-10-24T00:03:01.068Z] [conta1] Legenda trocou para o lote 14. Atualize a bio.
+[2026-10-24T00:03:21.075Z] [conta1] Postando video_157 (lote 14, post 1/12)
+[2026-10-24T00:04:05.817Z] [conta1] OK - video_157 publicado. media_id=17987134134109038
+[2026-10-24T00:04:25.834Z] [conta1] Postando video_158 (lote 14, post 2/12)
+[2026-10-24T00:05:17.695Z] [conta1] OK - video_158 publicado. media_id=17869543827661668
+[2026-10-24T00:05:37.711Z] [conta1] Postando video_159 (lote 14, post 3/12)
+[2026-10-24T00:06:19.107Z] [conta1] OK - video_159 publicado. media_id=18120005171076985
+[2026-10-24T00:06:39.123Z] [conta1] Postando video_160 (lote 14, post 4/12)
+[2026-10-24T00:07:42.538Z] [conta1] OK - video_160 publicado. media_id=17866943835675276
+[2026-10-24T00:08:02.554Z] [conta1] Postando video_161 (lote 14, post 5/12)
+[2026-10-24T00:08:45.816Z] [conta1] OK - video_161 publicado. media_id=18117234904817208
+[2026-10-24T00:09:05.833Z] [conta1] Postando video_162 (lote 14, post 6/12)
+[2026-10-24T00:10:50.560Z] [conta1] OK - video_162 publicado. media_id=18130834858699494
+[2026-10-24T00:10:50.561Z] [conta1] Fila acabou no meio da rodada.
