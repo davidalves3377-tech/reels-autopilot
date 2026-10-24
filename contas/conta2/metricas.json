@@ -1,86 +1,102 @@
 {
-  "atualizado": "2026-10-24T02:40:38.292Z",
-  "seguidores": 28512,
-  "total_posts": 372,
+  "atualizado": "2026-10-24T03:10:50.543Z",
+  "seguidores": 28711,
+  "total_posts": 374,
   "erro": null,
   "midias": [
+    {
+      "id": "18130579453836665",
+      "data": "2026-10-24T03:10:40+0000",
+      "link": "https://www.instagram.com/reel/De3IpcQkQT3/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
+    {
+      "id": "18021351473731866",
+      "data": "2026-10-24T02:45:45+0000",
+      "link": "https://www.instagram.com/reel/De3FysND53j/",
+      "views": 77,
+      "likes": 4,
+      "comentarios": 0
+    },
     {
       "id": "18197623894390095",
       "data": "2026-10-24T02:40:31+0000",
       "link": "https://www.instagram.com/reel/De3FOCFiTHY/",
-      "views": 0,
-      "likes": 0,
+      "views": 468,
+      "likes": 4,
       "comentarios": 0
     },
     {
       "id": "17864100660695676",
       "data": "2026-10-24T02:16:16+0000",
       "link": "https://www.instagram.com/reel/De3CaswgE5N/",
-      "views": 201,
-      "likes": 7,
+      "views": 1112,
+      "likes": 43,
       "comentarios": 0
     },
     {
       "id": "18126148930853786",
       "data": "2026-10-24T02:10:51+0000",
       "link": "https://www.instagram.com/reel/De3ByIMmMNf/",
-      "views": 257,
-      "likes": 5,
-      "comentarios": 0
+      "views": 1110,
+      "likes": 34,
+      "comentarios": 2
     },
     {
       "id": "18147357463602735",
       "data": "2026-10-24T01:45:56+0000",
       "link": "https://www.instagram.com/reel/De2-7w2k0Vs/",
-      "views": 166,
-      "likes": 3,
+      "views": 266,
+      "likes": 4,
       "comentarios": 0
     },
     {
       "id": "17915437206495956",
       "data": "2026-10-24T01:40:44+0000",
       "link": "https://www.instagram.com/reel/De2-WzCDpS6/",
-      "views": 1316,
-      "likes": 42,
+      "views": 1582,
+      "likes": 50,
       "comentarios": 0
     },
     {
       "id": "17939125398402308",
       "data": "2026-10-24T01:15:56+0000",
       "link": "https://www.instagram.com/reel/De27gUGiPMx/",
-      "views": 264,
-      "likes": 10,
+      "views": 321,
+      "likes": 14,
       "comentarios": 3
     },
     {
       "id": "18142527598720915",
       "data": "2026-10-24T01:11:35+0000",
       "link": "https://www.instagram.com/reel/De26__iDXmn/",
-      "views": 1438,
-      "likes": 42,
+      "views": 1590,
+      "likes": 46,
       "comentarios": 3
     },
     {
       "id": "18140353612619801",
       "data": "2026-10-24T00:45:56+0000",
       "link": "https://www.instagram.com/reel/De24EWsESsr/",
-      "views": 364,
-      "likes": 15,
+      "views": 418,
+      "likes": 17,
       "comentarios": 3
     },
     {
       "id": "17974822488178099",
       "data": "2026-10-24T00:40:55+0000",
       "link": "https://www.instagram.com/reel/De23faxABlS/",
-      "views": 1508,
-      "likes": 26,
+      "views": 1603,
+      "likes": 28,
       "comentarios": 0
     },
     {
       "id": "17889201351686526",
       "data": "2026-10-24T00:16:58+0000",
       "link": "https://www.instagram.com/reel/De20uf0ih77/",
-      "views": 409,
+      "views": 452,
       "likes": 15,
       "comentarios": 0
     },
@@ -88,31 +104,31 @@
       "id": "17925829455439062",
       "data": "2026-10-24T00:10:49+0000",
       "link": "https://www.instagram.com/reel/De20Di0Eiel/",
-      "views": 29082,
-      "likes": 2023,
-      "comentarios": 34
+      "views": 58872,
+      "likes": 4120,
+      "comentarios": 43
     },
     {
       "id": "18125394832912341",
       "data": "2026-10-23T23:45:57+0000",
       "link": "https://www.instagram.com/reel/De2xM3jjc05/",
-      "views": 1502,
-      "likes": 36,
+      "views": 1567,
+      "likes": 37,
       "comentarios": 0
     },
     {
       "id": "18077030072460794",
       "data": "2026-10-23T23:40:49+0000",
       "link": "https://www.instagram.com/reel/De2wnLKjLzV/",
-      "views": 4760,
-      "likes": 61,
-      "comentarios": 0
+      "views": 5543,
+      "likes": 76,
+      "comentarios": 1
     },
     {
       "id": "18147351157568535",
       "data": "2026-10-23T23:15:58+0000",
       "link": "https://www.instagram.com/reel/De2txQ9gega/",
-      "views": 1948,
+      "views": 2028,
       "likes": 40,
       "comentarios": 0
     },
@@ -120,23 +136,23 @@
       "id": "17992470393063414",
       "data": "2026-10-23T23:11:12+0000",
       "link": "https://www.instagram.com/reel/De2tPQ-D5UW/",
-      "views": 2176,
-      "likes": 59,
+      "views": 2300,
+      "likes": 62,
       "comentarios": 0
     },
     {
       "id": "17904090117670384",
       "data": "2026-10-23T22:45:58+0000",
       "link": "https://www.instagram.com/reel/De2qVjBjmf9/",
-      "views": 1932,
-      "likes": 34,
+      "views": 2010,
+      "likes": 36,
       "comentarios": 0
     },
     {
       "id": "18120025534946712",
       "data": "2026-10-23T22:40:52+0000",
       "link": "https://www.instagram.com/reel/De2pwHZCYR_/",
-      "views": 1871,
+      "views": 1961,
       "likes": 26,
       "comentarios": 6
     },
@@ -144,15 +160,15 @@
       "id": "18133495141761349",
       "data": "2026-10-23T22:16:49+0000",
       "link": "https://www.instagram.com/reel/De2nAxHl8kP/",
-      "views": 2101,
-      "likes": 61,
+      "views": 2156,
+      "likes": 62,
       "comentarios": 0
     },
     {
       "id": "18666702736049737",
       "data": "2026-10-23T22:10:55+0000",
       "link": "https://www.instagram.com/reel/De2mUOpDf95/",
-      "views": 1753,
+      "views": 1803,
       "likes": 34,
       "comentarios": 0
     },
@@ -160,15 +176,15 @@
       "id": "18194380942397721",
       "data": "2026-10-23T21:46:08+0000",
       "link": "https://www.instagram.com/reel/De2jfo4Eb5G/",
-      "views": 1663,
-      "likes": 21,
+      "views": 1715,
+      "likes": 22,
       "comentarios": 0
     },
     {
       "id": "18128316490832570",
       "data": "2026-10-23T21:40:41+0000",
       "link": "https://www.instagram.com/reel/De2i42fk6kX/",
-      "views": 618,
+      "views": 646,
       "likes": 20,
       "comentarios": 0
     },
@@ -176,31 +192,31 @@
       "id": "18136849198654310",
       "data": "2026-10-23T21:15:59+0000",
       "link": "https://www.instagram.com/reel/De2gCrliiyk/",
-      "views": 1682,
-      "likes": 27,
+      "views": 1812,
+      "likes": 28,
       "comentarios": 0
     },
     {
       "id": "17973546351145394",
       "data": "2026-10-23T21:11:03+0000",
       "link": "https://www.instagram.com/reel/De2fe19gO-A/",
-      "views": 716,
-      "likes": 17,
+      "views": 751,
+      "likes": 18,
       "comentarios": 0
     },
     {
       "id": "18414455566088140",
       "data": "2026-10-23T20:45:56+0000",
       "link": "https://www.instagram.com/reel/De2cmU2mWkI/",
-      "views": 8946,
-      "likes": 139,
+      "views": 10060,
+      "likes": 158,
       "comentarios": 9
     },
     {
       "id": "18000563283010430",
       "data": "2026-10-23T20:41:45+0000",
       "link": "https://www.instagram.com/reel/De2cIk4FLSl/",
-      "views": 1984,
+      "views": 2026,
       "likes": 22,
       "comentarios": 0
     },
@@ -208,7 +224,7 @@
       "id": "18489189409128199",
       "data": "2026-10-23T20:15:57+0000",
       "link": "https://www.instagram.com/reel/De2ZMUtDZ0d/",
-      "views": 2206,
+      "views": 2246,
       "likes": 24,
       "comentarios": 0
     },
@@ -216,7 +232,7 @@
       "id": "18140053249627842",
       "data": "2026-10-23T20:10:50+0000",
       "link": "https://www.instagram.com/reel/De2YlrFCLyC/",
-      "views": 1861,
+      "views": 1892,
       "likes": 27,
       "comentarios": 0
     },
@@ -224,24 +240,8 @@
       "id": "17934257532151173",
       "data": "2026-10-23T19:45:58+0000",
       "link": "https://www.instagram.com/reel/De2VvFFFcMI/",
-      "views": 1247,
+      "views": 1262,
       "likes": 16,
-      "comentarios": 0
-    },
-    {
-      "id": "18158794951512864",
-      "data": "2026-10-23T19:40:58+0000",
-      "link": "https://www.instagram.com/reel/De2VKKxHCLI/",
-      "views": 925,
-      "likes": 64,
-      "comentarios": 3
-    },
-    {
-      "id": "18075891893742791",
-      "data": "2026-10-23T19:15:58+0000",
-      "link": "https://www.instagram.com/reel/De2STiJDz2w/",
-      "views": 2589,
-      "likes": 43,
       "comentarios": 0
     }
   ],
@@ -252,6 +252,6 @@
     "2026-10-21": 13039,
     "2026-10-22": 20436,
     "2026-10-23": 27201,
-    "2026-10-24": 28512
+    "2026-10-24": 28711
   }
 }
