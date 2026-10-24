@@ -1,9 +1,9 @@
 {
   "dia": "2026-10-24",
   "hoje": 112,
-  "erro": null,
+  "erro": "sem_permissao",
   "total": 282,
-  "atualizado": "2026-10-24T05:25:13.614Z",
+  "atualizado": "2026-10-24T05:50:20.427Z",
   "varredura": {
     "posts_varridos": 200,
     "fim": "2026-10-24T03:55:00.755Z"
