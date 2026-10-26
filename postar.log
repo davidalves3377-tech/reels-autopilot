@@ -4341,3 +4341,7 @@
 [2026-10-26T14:41:28.624Z] [conta2] OK - video_367 publicado. media_id=18340230655276825
 [2026-10-26T14:45:19.170Z] [conta5] Nenhum vídeo restante para postar.
 [2026-10-26T14:45:19.746Z] [conta5] Aviso "[conta5] Acabaram os vídeos" já está aberto.
+[2026-10-26T14:50:21.478Z] [conta3] Postando video_215 (lote 18, post 11/12)
+[2026-10-26T14:50:21.860Z] [conta3] FALHOU video_215: {"message":"Unsupported post request. Object with ID '17841410738106430' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AT6SGDLF9PBA6tcXCG1i4OM"}
+[2026-10-26T14:50:22.027Z] [conta3] Métricas não atualizaram: Unsupported get request. Object with ID '17841410738106430' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-26T14:50:24.153Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
