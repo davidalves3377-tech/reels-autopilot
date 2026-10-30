@@ -6734,3 +6734,5 @@
 [2026-10-30T20:35:13.680Z] [conta4] Nenhum vídeo restante para postar.
 [2026-10-30T20:35:13.989Z] [conta4] Métricas não atualizaram: Unsupported get request. Object with ID '17841415622185398' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
 [2026-10-30T20:35:14.249Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
+[2026-10-30T20:40:16.343Z] [conta2] Postando video_548 (lote 46, post 8/12)
+[2026-10-30T20:40:57.975Z] [conta2] OK - video_548 publicado. media_id=18100659905414826
