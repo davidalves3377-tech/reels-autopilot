@@ -1,9 +1,9 @@
 {
   "dia": "2026-10-31",
   "hoje": 0,
-  "erro": "sem_permissao",
+  "erro": "You cannot access the app till you log in to www.facebook.com and follow the instructions given.",
   "total": 282,
-  "atualizado": "2026-10-31T22:20:20.669Z",
+  "atualizado": "2026-10-31T22:50:19.605Z",
   "varredura": {
     "posts_varridos": 200,
     "fim": "2026-10-24T03:55:00.755Z"

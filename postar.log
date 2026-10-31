@@ -7343,3 +7343,7 @@
 [2026-10-31T22:45:16.257Z] [conta5] Nenhum vídeo restante para postar.
 [2026-10-31T22:45:16.651Z] [conta5] Métricas não atualizaram: You cannot access the app till you log in to www.facebook.com and follow the instructions given.
 [2026-10-31T22:45:16.732Z] [conta5] Aviso "[conta5] Acabaram os vídeos" já está aberto.
+[2026-10-31T22:50:19.164Z] [conta3] Postando video_215 (lote 18, post 11/12)
+[2026-10-31T22:50:19.407Z] [conta3] FALHOU video_215: {"message":"Unsupported post request. Object with ID '17841410738106430' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AuV3rBIOeDEOlYRYnsem2C5"}
+[2026-10-31T22:50:19.521Z] [conta3] Métricas não atualizaram: You cannot access the app till you log in to www.facebook.com and follow the instructions given.
+[2026-10-31T22:50:19.701Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
