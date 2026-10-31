@@ -6967,3 +6967,6 @@
 [2026-10-31T06:05:15.380Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
 [2026-10-31T06:15:16.923Z] [conta5] Nenhum vídeo restante para postar.
 [2026-10-31T06:15:17.453Z] [conta5] Aviso "[conta5] Acabaram os vídeos" já está aberto.
+[2026-10-31T06:10:14.802Z] [conta2] Postando video_567 (lote 48, post 3/12)
+[2026-10-31T06:11:27.071Z] [conta2] FALHOU video_567: {"message":"Media ID is not available","type":"OAuthException","code":9007,"error_subcode":2207027,"is_transient":false,"error_user_title":"Não é possível publicar","error_user_msg":"A mídia não está pronta para ser publicada. Aguarde um momento.","fbtrace_id":"AsIMcSM4W7LQ7IR2Yveo-mg"}
+[2026-10-31T06:19:53.449Z] [conta2] Respondi 15 comentário(s).
