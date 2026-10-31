@@ -7347,3 +7347,6 @@
 [2026-10-31T22:50:19.407Z] [conta3] FALHOU video_215: {"message":"Unsupported post request. Object with ID '17841410738106430' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AuV3rBIOeDEOlYRYnsem2C5"}
 [2026-10-31T22:50:19.521Z] [conta3] Métricas não atualizaram: You cannot access the app till you log in to www.facebook.com and follow the instructions given.
 [2026-10-31T22:50:19.701Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
+[2026-10-31T23:05:15.397Z] [conta4] Nenhum vídeo restante para postar.
+[2026-10-31T23:05:15.745Z] [conta4] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
+[2026-10-31T23:05:15.798Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.

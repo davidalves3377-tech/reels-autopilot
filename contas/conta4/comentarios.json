@@ -5,7 +5,7 @@
     "posts_varridos": 334,
     "fim": "2026-10-22T02:05:52.626Z"
   },
-  "erro": "sem_permissao",
+  "erro": "Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
   "total": 62,
-  "atualizado": "2026-10-31T22:35:15.905Z"
+  "atualizado": "2026-10-31T23:05:15.857Z"
 }
