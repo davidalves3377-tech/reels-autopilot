@@ -1,9 +1,9 @@
 {
-  "dia": "2026-11-07",
+  "dia": "2026-11-08",
   "hoje": 0,
   "erro": "Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
   "total": 282,
-  "atualizado": "2026-11-07T23:50:19.199Z",
+  "atualizado": "2026-11-08T00:20:21.850Z",
   "varredura": {
     "posts_varridos": 200,
     "fim": "2026-10-24T03:55:00.755Z"
