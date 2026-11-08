@@ -11647,3 +11647,6 @@
 [2026-11-08T18:35:13.998Z] [conta4] Nenhum vídeo restante para postar.
 [2026-11-08T18:35:14.277Z] [conta4] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
 [2026-11-08T18:35:14.443Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
+[2026-11-08T18:45:16.806Z] [conta5] Nenhum vídeo restante para postar.
+[2026-11-08T18:45:17.152Z] [conta5] Aviso "[conta5] Acabaram os vídeos" já está aberto.
+[2026-11-08T18:45:17.232Z] [conta5] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
