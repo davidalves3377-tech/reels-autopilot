@@ -13280,3 +13280,5 @@
 [2026-11-11T18:20:21.130Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
 [2026-11-11T18:35:15.906Z] [conta4] Nenhum vídeo restante para postar.
 [2026-11-11T18:35:16.200Z] [conta4] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
+[2026-11-11T18:45:18.732Z] [conta5] Nenhum vídeo restante para postar.
+[2026-11-11T18:45:19.023Z] [conta5] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
