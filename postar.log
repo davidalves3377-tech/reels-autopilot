@@ -16048,3 +16048,7 @@
 [2026-11-16T22:05:14.251Z] [conta4] Nenhum vídeo restante para postar.
 [2026-11-16T22:05:14.725Z] [conta4] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
 [2026-11-16T22:05:14.727Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
+[2026-11-16T22:10:16.892Z] [conta2] Postando video_584 (lote 49, post 8/12)
+[2026-11-16T22:10:17.320Z] [conta2] FALHOU video_584: {"message":"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.","code":190,"type":"OAuthException","error_subcode":460,"fbtrace_id":"ADL04bAZQQUm7SvgZvdqr5Y"}
+[2026-11-16T22:10:17.500Z] [conta2] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
+[2026-11-16T22:10:17.739Z] [conta2] Aviso "[conta2] Falha ao postar" já está aberto.
