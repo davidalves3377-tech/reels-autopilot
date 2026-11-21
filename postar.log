@@ -18537,3 +18537,6 @@
 [2026-11-21T10:50:20.843Z] [conta3] FALHOU video_215: {"message":"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.","code":190,"type":"OAuthException","error_subcode":460,"fbtrace_id":"AMgijcEQyKAhlrfgBI95JsF"}
 [2026-11-21T10:50:20.898Z] [conta3] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
 [2026-11-21T10:50:21.098Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
+[2026-11-21T11:05:19.151Z] [conta4] Nenhum vídeo restante para postar.
+[2026-11-21T11:05:19.396Z] [conta4] Métricas não atualizaram: Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.
+[2026-11-21T11:05:19.550Z] [conta4] Aviso "[conta4] Acabaram os vídeos" já está aberto.
